@@ -1,16 +1,6 @@
-[![Build Status](https://travis-ci.org/Gonzih/cljs-electron.svg?branch=master)](https://travis-ci.org/Gonzih/cljs-electron)
+# Internet Of Thing
 
-# Clojurified Electron
-
-![](https://raw.githubusercontent.com/Gonzih/cljs-electron/master/demo.gif)
-
-My attempt to recreate ClojureScript development workflow while developing desktop apps with [electron](http://electron.atom.io/).
-
-## What is currently included
-
-* ClojureScript (init script and ui code)
-* Figwheel for interactive development (+ serves webjars)
-* Reagent for UI
+This is a small demo Electron + ClojureScript app, built for [a talk at Clojure PDX on building desktop apps with Electron and ClojureScript](http://increasinglyfunctional.com/2016/07/07/electron-clojurescript-talk/). It's based on the excellent work done on [cljs-electron](https://github.com/Gonzih/cljs-electron).
 
 ## Running it
 

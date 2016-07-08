@@ -1,5 +1,6 @@
 {
-  "name": "hello-world",
-  "version": "0.1.0",
-  "main": "resources/main.js"
+    "name": "internet-of-thing",
+    "productName": "Internet of Thing",
+    "version": "0.1.0",
+    "main": "resources/main.js"
 }
